@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function valueOf(id) {
     var str = document.getElementById(id).value;
-    var value = parseInt(str)
+    var value = parseFloat(str)
     if (value == NaN)
         return 0;
     return value;
