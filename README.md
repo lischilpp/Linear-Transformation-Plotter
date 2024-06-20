@@ -4,6 +4,6 @@ This tool visualizes the impact of a 2x2 matrix multiplication on the shape of a
 For simplicity, this object is represented by the letter "F."
 You can enter any arbitrary numbers for the four matrix values, and the resulting shape will be visualized.
 
- [Interactive Page](https://<username>.github.io/<repository>)
+ [Interactive Page](https://<lischilpp>.github.io/Linear-Transformation-Plotter)
 
  # Screenshots
