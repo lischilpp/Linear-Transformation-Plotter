@@ -11,7 +11,7 @@ var F = [
     new vec(1, 1)
 ]
 
-var scale = 20;
+var scale = 20; // scaling of the shape
 var can, ctx, halfWidth, halfHeight;
 
 var a11, a12, a21, a22

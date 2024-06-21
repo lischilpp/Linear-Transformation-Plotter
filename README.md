@@ -7,3 +7,6 @@ You can enter any arbitrary numbers for the four matrix values, and the resultin
  [Interactive Page](https://lischilpp.github.io/Linear-Transformation-Plotter)
 
  # Screenshots
+![](screenshots/identity.png)
+![](screenshots/skew_y.png)
+![](screenshots/mirror_x.png)
