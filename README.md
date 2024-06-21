@@ -10,10 +10,8 @@ You can enter any arbitrary numbers for the four matrix values, and the resultin
 ## Identity
 <img src="screenshots/identity.png" width="300" alt="Identity transformation">
 
-## Skew-Y
-
+## Skew Y
 <img src="screenshots/skew_y.png" width="300" alt="Skew-Y transformation">
 
-## Mirror-X
-
+## Mirror X
 <img src="screenshots/mirror_x.png" width="300" alt="Mirror-X transformation">
